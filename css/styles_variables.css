@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css?family=Inter:400;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca:400&display=swap');
+
+
+:root
+{
+    --color-vd-blue:            hsl(233, 47%, 7%);
+    --color-dd-blue:            hsl(244, 38%, 16%);
+    --color-s-violet:           hsl(277, 64%, 61%);
+
+    --color-white:              hsl(0, 0%, 100%);
+    --color-white-75:           hsla(0, 0%, 100%, 0.75);
+    --color-white-60:           hsla(0, 0%, 100%, 0.6);
+}
+
